@@ -65,15 +65,11 @@ Trained three classic models:
 
 ### Part 3 – Model Registry
 
-![Model Registry](images/1.png)
-
 ### Part 4 – Production Alias
-
-![Production Alias](images/2.png)
 
 ### Part 5 – Experiment Comparison
 
-![Experiment Comparison](images/3.png)
+Attached in the document file for submission
 
 ---
 
